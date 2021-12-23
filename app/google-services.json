@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283322788675",
+    "firebase_url": "https://chapter-list-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chapter-list",
+    "storage_bucket": "chapter-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283322788675:android:4b01a3e7f79ebd93001df6",
+        "android_client_info": {
+          "package_name": "com.example.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283322788675-m4f34hcfe8b3oshiejueg17sui7so9i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlj_a9Tgwpff-HSgjZDI0-0sY5r_cOnLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283322788675-m4f34hcfe8b3oshiejueg17sui7so9i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
